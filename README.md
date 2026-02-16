@@ -23,27 +23,33 @@ This school management system serves as both a functional tool and a learning pl
 ## 📸 Screenshots
 
 ### Dashboard
-![Dashboard Overview](./screenshots/dashboard.png)
+<img width="1788" height="884" alt="image" src="https://github.com/user-attachments/assets/a3be827c-a0ca-4ff1-b5fa-0615c467ff14" />
+<img width="1799" height="900" alt="image" src="https://github.com/user-attachments/assets/b7daa15d-8dca-48a0-80ce-d40ae178fddd" />
+
 *System statistics and analytics at a glance*
 
 ### Teachers Management
-![Teachers List](./screenshots/teachers.png)
+<img width="1779" height="600" alt="image" src="https://github.com/user-attachments/assets/b9820b08-5003-4ac0-9470-7989d2f864b6" />
+
 *Manage teachers with easy CRUD operations*
 
 ### Students Management
-![Students List](./screenshots/students.png)
+<img width="1784" height="588" alt="image" src="https://github.com/user-attachments/assets/751d3b84-d97f-4f32-9d1c-58debe4f54e9" />
 *Complete student information management*
 
 ### Courses Management
-![Courses List](./screenshots/courses.png)
+<img width="1789" height="586" alt="image" src="https://github.com/user-attachments/assets/915f6582-bba7-42ee-b7fa-8a09209d3f8f" />
+
 *Create and assign courses to teachers*
 
 ### Enrollments Management
-![Enrollments List](./screenshots/enrollments.png)
+<img width="1462" height="629" alt="image" src="https://github.com/user-attachments/assets/6f732f1e-0762-4d1c-a781-6c55b7031e4d" />
+
 *Manage student course enrollments*
 
 ### Add/Edit Forms
-![Add Teacher Dialog](./screenshots/add-teacher.png)
+<img width="760" height="615" alt="image" src="https://github.com/user-attachments/assets/c0c688c8-5de5-4c7b-b12a-d3693ad446b1" />
+
 *Beautiful dialog forms with validation*
 
 ---
